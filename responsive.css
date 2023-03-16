@@ -1,0 +1,25 @@
+@media all and (max-width: 1000px){
+    .service-item{
+        width: 60%;
+    }
+    
+}
+
+@media all and(max-width:670px){
+    .service-item{
+        width: 80%;
+    }
+
+   .menu-icon {
+    display:block;
+    }
+    .container h1{
+        font-size:10px;
+        line-height:5px;
+    }
+    .container h2 {
+        font-size:10px;
+        line-height:5px;
+    }
+    
+}
